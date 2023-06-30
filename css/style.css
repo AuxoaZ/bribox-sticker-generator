@@ -1,0 +1,10 @@
+/** @format */
+
+#myTable {
+  border-collapse: collapse;
+}
+
+#myTable td {
+  padding: 0;
+  border: 1px solid black;
+}

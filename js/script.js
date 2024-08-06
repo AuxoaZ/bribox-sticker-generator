@@ -85,7 +85,7 @@ document.getElementById("show_asset").addEventListener('click', function (event)
           <img crossOrigin="anonymous" src="https://i.postimg.cc/sD7SJCdW/bit-logo.png" alt="" width="120px" class="ml-2" />
           <p class="text-xs">081222006261</p>
           <p class="text-xs">bribox.zona2@corp.bri.co.id</p>
-          <p class="text-xs">2020</p>
+          <p class="text-xs">2024</p>
           <p class="text-xs">${element}</p>
         </div>
       </div>`;

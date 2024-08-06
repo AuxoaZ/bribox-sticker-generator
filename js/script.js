@@ -82,7 +82,7 @@ document.getElementById("show_asset").addEventListener('click', function (event)
           <img src="${qrcode}" alt="" srcset="" width="80px" crossOrigin="anonymous"  />
         </div>
         <div class="py-2 px-5 text-center">
-          <img crossOrigin="anonymous" src="https://i.ibb.co/cw1ygct/bit-logo.png" alt="" width="120px" class="ml-2" />
+          <img crossOrigin="anonymous" src="https://i.postimg.cc/sD7SJCdW/bit-logo.png" alt="" width="120px" class="ml-2" />
           <p class="text-xs">081222006261</p>
           <p class="text-xs">bribox.zona2@corp.bri.co.id</p>
           <p class="text-xs">2020</p>
